@@ -51,3 +51,26 @@ body {
 #Home-Photo{
     border-radius: 250px;
 }
+.Portfolio{
+    width: 700px;
+    text-align: center;
+    color: whitesmoke;
+    margin-left: 300px;
+    padding-top:5px;
+
+}
+.Portfolio-item{
+    color: whitesmoke;
+    width: 200px;
+    margin-left:65px;
+    float: left;
+}
+.Portfolio-row{
+    padding-top: 35px;
+}
+.form-group{
+    width:500px ;
+    color:whitesmoke;
+    margin:20px;
+    background:transparent;
+}
