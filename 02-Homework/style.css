@@ -4,18 +4,17 @@ body {
 }
 .Home {
     background:transparent;
-    text-align: center;
-    color: grey;
     width: 400px;
-    margin-right:700px
+    margin-right:700px;
+    bottom: auto;
     
-   
 }
-h1{
-    color: rgb();
+.Name{
+    color: grey;
     font-size: 33px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
+    text-align: center;
 }
 .navbar {
     background:transparent;
@@ -36,11 +35,19 @@ h1{
 .Home-link{
     margin-left:750px
 }
-p{
-    margin-top: 20px;
-    text-align: center
-    ;
+.About-Me {
+    margin-left: 100px;
+    color: grey;
+    
+    
+}
+#About-Me{
+    margin-top: 10px;
+    margin-left: 30px;
+    color: whitesmoke;
+    width:360px;
+    
 }
 #Home-Photo{
-    border-radius: 25px;
+    border-radius: 250px;
 }
