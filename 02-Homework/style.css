@@ -5,7 +5,7 @@ body {
 .Home {
     background:transparent;
     width: 400px;
-    margin-right:700px;
+    
     bottom: auto;
     
 }
@@ -58,7 +58,7 @@ color: whitesmoke;
     width: 700px;
     text-align: center;
     color: whitesmoke;
-    margin-left: 300px;
+    
     padding-top:5px;
 
 }
