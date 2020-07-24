@@ -1,6 +1,7 @@
 body {
     background-image: url("https://wallpaperhd.wiki/wp-content/uploads/hd-backgrounds-portrait-276518-digital-art-portrait-display-cgi-space-universe-planet-stars-sun-rays-galaxy-milky-way.jpg" ) ;
     background-size: cover;
+    text-align: center;
 }
 .Home {
     background:transparent;
@@ -48,14 +49,14 @@ body {
     width:360px;
 }
 h5 {
-margin-left: ;
+
 color: whitesmoke;
 }
-#Home-Photo{
-    border-radius: 250px;
+img{
+    border-radius: 100px;
 }
 .Portfolio{
-    width: 700px;
+    width: 450px;
     text-align: center;
     color: whitesmoke;
     
@@ -64,9 +65,9 @@ color: whitesmoke;
 }
 .Portfolio-item{
     color: whitesmoke;
-    width: 200px;
-    margin-left:65px;
-    float: left;
+    
+    
+    
 }
 .Portfolio-row{
     padding-top: 35px;
@@ -76,4 +77,11 @@ color: whitesmoke;
     color:whitesmoke;
     margin:20px;
     background:transparent;
+}
+.chess > a {
+    display:block;
+    
+}
+.chess{
+    text-align: center;
 }
